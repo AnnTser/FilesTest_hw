@@ -1,0 +1,7 @@
+{
+  "name": "NewBalance",
+  "price": 5500,
+  "brand": "Nike",
+  "size": 39,
+  "category": ["shoes", "leather", "leather"]
+}
